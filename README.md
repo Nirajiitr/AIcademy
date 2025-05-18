@@ -1,3 +1,6 @@
+# AIcademy
+AIcademy is an AI-powered learning platform that delivers personalized, adaptive education for students and professionals. Learn smarter with real-time feedback, intelligent recommendations, and a tailored learning path designed just for you.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
